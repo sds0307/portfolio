@@ -7,6 +7,6 @@ to run locally
 
 Run
 
-docker build . -t shakyshane/cra-docker
+docker build . -t sshenoy/portfolio
 
 to build any changes
