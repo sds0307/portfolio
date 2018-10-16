@@ -29,6 +29,10 @@ To stop the container
 
     docker stop portfolio
 
+To remove the container
+
+    docker rm portfolio
+
 
 Next steps
 - How to deploy changes manually
