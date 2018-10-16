@@ -35,7 +35,6 @@ To remove the container
 
 
 Next steps
-- How to deploy changes manually
 - Script to deploy changes
 - Circle CI set up
 - Circle CI for deployments
